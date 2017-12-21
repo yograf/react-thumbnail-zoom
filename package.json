@@ -29,7 +29,7 @@
     "react-dom": "^15.5.4 || ^16.0.0"
   },
   "devDependencies": {
-    "nwb": "0.15.x",
+    "nwb": "0.15.x"
   },
   "author": "",
   "homepage": "",
